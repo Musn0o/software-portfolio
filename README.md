@@ -6,6 +6,13 @@ Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform übe
 
 Aktuell suche ich eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum **01.08.2027** (früher möglich). Ich bin umzugsbereit nach Deutschland; die B2-Prüfung möchte ich dort ablegen.
 
+## Arbeitsweise
+
+Ich entwickle meine Projekte eigenständig und nutze moderne KI-Werkzeuge als
+Unterstützung für Recherche, Boilerplate und schnelleres Iterieren. Anforderungen,
+Architektur, Datenmodelle und die Integration der Komponenten verantworte ich
+selbst und kann die zentralen Entscheidungen im Code erklären.
+
 ---
 
 ## Ausgewählte Projekte
