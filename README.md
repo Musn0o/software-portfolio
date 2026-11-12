@@ -4,7 +4,7 @@
 
 Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform über die Desktop-App bis zur mobilen App. Mein Fokus liegt auf nachvollziehbaren Datenmodellen, sauberer Struktur und Produkten, die im Alltag funktionieren.
 
-Aktuell suche ich eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum **01.08.2027** (früher möglich). Ich bin umzugsbereit nach Deutschland; die B2-Prüfung möchte ich dort ablegen.
+Aktuell suche ich eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum **01.08.2027** (früher möglich). Ich bin umzugsbereit nach Deutschland (Ausbildungsvisum erforderlich); die B2-Prüfung möchte ich dort ablegen.
 
 ## Arbeitsweise
 
