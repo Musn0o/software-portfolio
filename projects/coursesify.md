@@ -30,7 +30,7 @@ Als Solo-Entwickler habe ich das Projekt von der ersten Idee bis zum Live-Betrie
 - Video-Streaming für Kursinhalte
 - Native Desktop-App auf Basis von Electron
 - Dynamische Wasserzeichen und Browser-Isolierung zum Schutz von Inhalten
-- Zweisprachige Oberfläche (Deutsch/Englisch, Arabisch)
+- Zweisprachige Oberfläche (Englisch/Arabisch)
 - Responsive Web-Oberfläche
 
 ## Architektur

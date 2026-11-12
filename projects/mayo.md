@@ -1,6 +1,6 @@
 # Mayo — Digitale Befunderfassung
 
-**Status:** Im täglichen Einsatz, Open Source  
+**Status:** Im täglichen Einsatz, öffentliches Repository  
 **Rolle:** Konzeption und Entwicklung (Solo-Projekt)  
 **Repository:** [github.com/Musn0o/Mayo](https://github.com/Musn0o/Mayo)  
 **Release:** [Mayo v1.0.0](https://github.com/Musn0o/Mayo/releases)
