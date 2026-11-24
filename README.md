@@ -4,7 +4,7 @@
 
 Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform über die Desktop-App bis zur mobilen App. Mein Fokus liegt auf nachvollziehbaren Datenmodellen, sauberer Struktur und Produkten, die im Alltag funktionieren.
 
-Aktuell suche ich eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum **01.08.2027** (früher möglich). Ich bin umzugsbereit nach Deutschland (Ausbildungsvisum erforderlich); die B2-Prüfung möchte ich dort ablegen.
+Aktuell suche ich eine **Ausbildung als Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum **01.08.2027** (früher möglich). Ich bin umzugsbereit nach Deutschland (Ausbildungsvisum erforderlich); die telc B2-Prüfung habe ich abgelegt und warte auf das Ergebnis.
 
 ## Arbeitsweise
 
@@ -17,12 +17,12 @@ selbst und kann die zentralen Entscheidungen im Code erklären.
 
 ## Ausgewählte Projekte
 
-### Coursesify — E-Learning- & Streaming-Plattform
-[![Coursesify](assets/coursesify-home.png)](https://coursesify.vercel.app/en)
+### Coursesify — Geschützte E-Learning-Plattform
+[![Coursesify Website](assets/coursesify-home.png)](https://coursesify.vercel.app/en)
 
-Live-MVP einer Bildungsplattform mit Kursverwaltung, Nutzerkonten und Video-Streaming. Dazu eine Electron-Desktop-App mit Schutzmechanismen gegen unbefugtes Kopieren.
+Drei miteinander verbundene Teile: eine Next.js-Website mit API, eine Flutter-Lern-App für fünf Plattformen und ein internes Electron-Admin-Tool mit FFmpeg/AES-128-HLS-Pipeline. Die Website dient heute als Marketing-, Legal-, Kontakt- und Download-Seite; die Wiedergabe läuft ausschließlich in der App.
 
-`Next.js` · `Node.js` · `Electron` · `PostgreSQL` · `Supabase`
+`Next.js` · `Flutter` · `PostgreSQL/Supabase` · `Electron` · `Backblaze B2`
 
 **[Live ansehen](https://coursesify.vercel.app/en)** · **[Case Study](projects/coursesify.md)**
 
@@ -35,7 +35,7 @@ Live-MVP einer Bildungsplattform mit Kursverwaltung, Nutzerkonten und Video-Stre
   </a>
 </p>
 
-Mobile Lern-App für Deutsch (A1/A2) mit Offline-Übersetzung, OCR-Scanner, Aussprachetraining und Vokabeljournal. Veröffentlicht im Google Play Store.
+Mobile Lern-App für Deutsch (A1–B2) mit Offline-Übersetzung, OCR-Scanner, Aussprachetraining und Vokabeljournal. Veröffentlicht im Google Play Store.
 
 `Flutter` · `Dart` · `SQLite/Drift` · `Google ML Kit` · `TTS/STT` · `OCR`
 

@@ -13,7 +13,7 @@
 
 ## Überblick
 
-Achtung ist eine mobile Lern-App für Deutsch auf den Niveaustufen A1 und A2. Der Schwerpunkt liegt auf einer schnellen, offline verfügbaren Nutzung: Übersetzungen, Vokabeln, Verbkonjugationen und Aussprache sollen auch ohne ständige Internetverbindung funktionieren.
+Achtung ist eine mobile Lern-App für Deutsch mit Lerninhalten von A1 bis B2. Der Schwerpunkt liegt auf einer schnellen, offline verfügbaren Nutzung: Übersetzungen, Vokabeln, Verbkonjugationen und Aussprache sollen auch ohne ständige Internetverbindung funktionieren.
 
 Die App wurde im Google Play Store veröffentlicht und dort bereits über 50-mal installiert.
 
@@ -29,7 +29,7 @@ Ich habe die App eigenständig konzipiert, entwickelt und veröffentlicht:
 
 ## Funktionen
 
-- Strukturierte Lektionen für A1 und A2
+- Strukturierte Lektionen und Daten für A1 bis B2
 - Vollständige Verbkonjugationstabellen (Indikativ, Konjunktiv I/II, Imperativ)
 - Automatische Erkennung von transitiven Verben sowie von „haben“/„sein“ als Hilfsverb
 - Vokabeljournal mit Artikel, Plural und Erklärungen
